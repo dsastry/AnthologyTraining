@@ -1,2 +1,0 @@
-# AnthologyTraining
-Git Training
